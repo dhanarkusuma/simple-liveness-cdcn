@@ -3,6 +3,8 @@ datasets/test/*
 datasets/train/*
 processed_frames/attack/*
 processed_frames/real/*
+processed_test_frames/attack/*
+processed_test_frames/real/*
 .idea
 
 __pycache__/
