@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+datasets/test/*
+datasets/train/*
+processed_frames/attack/*
+processed_frames/real/*
+.idea
+
 __pycache__/
 *.py[codz]
 *$py.class
